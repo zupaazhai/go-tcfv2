@@ -14,7 +14,7 @@ import (
 
 // Replace with Adserve's real ID from https://vendor-list.consensu.org/
 // TCF vendor IDs are 16-bit (1–65535).
-const adserveVendorID = 855
+const adserveVendorID = 613
 
 // strictMode enforces TCF v2.3: TC strings without disclosedVendors are invalid.
 const strictMode = false
